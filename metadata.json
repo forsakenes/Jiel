@@ -1,0 +1,16 @@
+{
+    "name": "JIEL",
+    "symbol": "JIEL",
+    "description": "JIEL Token",
+    "image": "https://raw.githubusercontent.com/forsakenes/Jiel/main/Adobe%20Express%20-%20file%20(1).png",
+    "external_url": "",
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/forsakenes/Jiel/main/Adobe%20Express%20-%20file%20(1).png",
+                "type": "image/png"
+            }
+        ]
+    }
+} 
