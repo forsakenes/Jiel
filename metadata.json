@@ -3,7 +3,7 @@
     "symbol": "JIEL",
     "description": "JIEL Token, yenilikçi bir kripto para projesidir. Güvenli, hızlı ve ölçeklenebilir bir altyapı sunar.",
     "image": "https://raw.githubusercontent.com/forsakenes/Jiel/main/Adobe%20Express%20-%20file%20(1).png",
-    "external_url": "https://jiel.fun",  // Eğer web siteniz varsa
+    "external_url": "https://jiel.fun",
     "attributes": [
         {
             "trait_type": "Category",
